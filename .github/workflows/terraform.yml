@@ -1,6 +1,6 @@
 name: Terraform AWS EKS
 
-on:
+'on':
   pull_request:
     paths:
       - "**.tf"
